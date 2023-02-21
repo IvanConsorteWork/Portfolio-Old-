@@ -20,3 +20,10 @@ form input, form textarea {
     color: #f4f4f4
 }
 
+.hidden-div {
+    text-indent: -99999px; 
+    white-space: nowrap; 
+    overflow: hidden; 
+    position: absolute
+}
+
