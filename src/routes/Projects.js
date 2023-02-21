@@ -2,7 +2,7 @@ import React from 'react';
 import NavBar from '../components/NavBar';
 import Footer from '../components/Footer';
 import HeroImgProjects from '../components/HeroImgProjects';
-import PricingCard from '../components/PricingCard';
+// import PricingCard from '../components/PricingCard';
 import Work from '../components/Work';
 
 const Projects = () => {
@@ -11,7 +11,7 @@ const Projects = () => {
       <NavBar />
       <HeroImgProjects />
       <Work />
-      <PricingCard/>
+      {/* <PricingCard/> */}
       <Footer />
     </div>
   )
