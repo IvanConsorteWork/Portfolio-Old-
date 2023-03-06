@@ -25,10 +25,10 @@ const Footer = () => {
               <h4>About me</h4>
               <p>Hello! I'm Ivan Consorte and this is my portfolio: a place where I showcase my works</p>
               <div className='social'>
-                <NavLink to='https://github.com/IvanConsorteWork/CountriesApp'>
+                <NavLink to='https://github.com/IvanConsorteWork/CountriesApp' target='_blank'>
                   <FaGithub size={30} style={{color: '#fff', marginRight: '1rem'}} />
                 </NavLink>
-                <NavLink to='https://www.linkedin.com/in/ivan-consorte-b4a772249/'>
+                <NavLink to='https://www.linkedin.com/in/ivan-consorte-b4a772249/' target='_blank'>
                   <FaLinkedin size={30} style={{color: '#fff', marginRight: '1rem'}} />
                 </NavLink>
               </div>

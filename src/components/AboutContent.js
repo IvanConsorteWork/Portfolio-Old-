@@ -12,7 +12,7 @@ const AboutContent = () => {
             <p>An aspiring web developer with a deep enthusiasm and quick learning skills. Recently, I pivoted my career from teaching music on schools to website design due to my curiosity for developing technologies and a desire for something new and exciting.
 
             Currently, I focus on learn about developing responsive E-Commerce sites, applying all I learn on my time in the Henry's Bootcamp. I typically use React/Redux in the client and Express (Node.js), PosgresSQL and Sequelize in the database and server. </p>
-            <Link to='/contact'>
+            <Link to='/contact' target='_blank'>
                 <button className='btn'>Contact</button>
             </Link>
         </div>
