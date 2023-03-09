@@ -11,7 +11,7 @@
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ivan-consorte-b4a772249/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ivanConsorte" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/ivanconsorte23/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ivanConsorte" height="40" width="50" /></a>
 </p>
 
 <a href="https://github.com/IvanConsorteWork">
